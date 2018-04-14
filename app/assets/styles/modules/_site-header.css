@@ -41,7 +41,7 @@
       transform: translateX(0);
       
       &--smaller {
-      transform: scale(0.57);
+      transform: scale(0.56);
       }
     }
   }
